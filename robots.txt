@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://Marmouset-69.github.io/Node-red/sitemap.xml
